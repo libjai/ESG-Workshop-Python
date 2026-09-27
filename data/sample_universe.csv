@@ -1,0 +1,11 @@
+ticker,name,sector,industry,esg_score,market_cap_mn,shares_out_mn,pe,peg,operating_margin,profit_margin,beta
+Stock1,Sample 1,Services,Broadcasting - TV,7.5,14942.5,570.76,19.39,1.85,0.2618,0.1453,1.2
+Stock2,Sample 2,Basic Materials,Steel & Iron,5.5,2324.26,165.9,9.16,,0.0918,0.1024,1.19
+Stock3,Sample 3,Services,Air Services Other,9.0,1306.83,42.54,24.58,8.19,0.3751,0.2648,1.57
+Stock4,Sample 4,Consumer Goods,Beverages - Soft Drinks,6.0,32930.65,203.05,30.03,2.22,0.1353,0.0929,1.0
+Stock5,Sample 5,Industrial Goods,Heavy Construction,7.0,1762.64,151.17,16.19,0.77,0.078,0.04,1.93
+Stock6,Sample 6,Consumer Goods,Meat Products,6.0,1668.5,50.0,9.51,,0.0666,0.0549,0.96
+Stock7,Sample 7,Consumer Goods,Processed and Packaged Goods,5.0,2832.29,140.91,6.59,0.68,0.0579,0.1009,2.68
+Stock8,Sample 8,Consumer Goods,Beverages - Brewers,4.0,41135.33,357.82,267.35,21.24,0.1594,0.071,1.12
+Stock9,Sample 9,Industrial Goods,Cement,0.0,12688.65,1124.88,,,0.0584,-0.0606,2.54
+Stock10,Sample 10,Technology,Wireless Communications,8.0,78061.35,3703.1,10.81,1.29,0.203,0.117,1.32

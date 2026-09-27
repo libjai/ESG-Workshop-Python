@@ -1,0 +1,12 @@
+numpy>=1.23
+pandas>=1.5
+scipy>=1.10
+statsmodels>=0.13.5
+matplotlib>=3.7
+requests>=2.28
+lxml>=4.9
+jupyterlab>=3.6
+pytest>=7.0
+# opcionales (métodos históricos de Yahoo en el notebook 02)
+yfinance>=0.2.50
+yahooquery>=2.3
